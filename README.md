@@ -1,2 +1,2 @@
 # EC-III
-Excave III [Save Editor &amp; NTR Cheat Plugin]
+Excave III [NTR Cheat Plugin]
